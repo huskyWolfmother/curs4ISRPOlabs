@@ -1,2 +1,2 @@
-# curs4ISRPOlabs
+# curs4Labsabs
 а чё)))
